@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FoodPicker</string>
+    <string name="btn_pick_your_lunch">Pick Your Lunch</string>
+    <string name="text_your_lunch_default">Your Lunch Will Appear Here</string>
+</resources>
